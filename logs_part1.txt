@@ -1,0 +1,36 @@
+[33mc8392fc[m[33m ([m[1;36mHEAD -> [m[1;32mdevelop[m[33m, [m[1;32mfeature3[m[33m)[m HEAD@{0}: checkout: moving from feature3 to develop
+[33mc8392fc[m[33m ([m[1;36mHEAD -> [m[1;32mdevelop[m[33m, [m[1;32mfeature3[m[33m)[m HEAD@{1}: rebase (continue) (finish): returning to refs/heads/feature3
+[33mc8392fc[m[33m ([m[1;36mHEAD -> [m[1;32mdevelop[m[33m, [m[1;32mfeature3[m[33m)[m HEAD@{2}: commit (merge): 2
+[33m071c1ab[m HEAD@{3}: commit: 1
+[33mb27de30[m[33m ([m[1;32mfeature4[m[33m)[m HEAD@{4}: checkout: moving from b27de305d615d80bdeeedf0f0050d0c3733e318b to develop
+[33mb27de30[m[33m ([m[1;32mfeature4[m[33m)[m HEAD@{5}: rebase (start): checkout develop
+[33m664a5d0[m HEAD@{6}: checkout: moving from develop to feature3
+[33mb27de30[m[33m ([m[1;32mfeature4[m[33m)[m HEAD@{7}: merge feature4: Fast-forward
+[33mf04480c[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m, [m[1;32mfeature2[m[33m, [m[1;32mfeature1[m[33m)[m HEAD@{8}: checkout: moving from feature4 to develop
+[33mb27de30[m[33m ([m[1;32mfeature4[m[33m)[m HEAD@{9}: commit: feature4
+[33mf04480c[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m, [m[1;32mfeature2[m[33m, [m[1;32mfeature1[m[33m)[m HEAD@{10}: checkout: moving from feature3 to feature4
+[33m664a5d0[m HEAD@{11}: commit: feature3
+[33mf04480c[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m, [m[1;32mfeature2[m[33m, [m[1;32mfeature1[m[33m)[m HEAD@{12}: checkout: moving from feature4 to feature3
+[33mf04480c[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m, [m[1;32mfeature2[m[33m, [m[1;32mfeature1[m[33m)[m HEAD@{13}: checkout: moving from develop to feature4
+[33mf04480c[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m, [m[1;32mfeature2[m[33m, [m[1;32mfeature1[m[33m)[m HEAD@{14}: checkout: moving from feature3 to develop
+[33mf04480c[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m, [m[1;32mfeature2[m[33m, [m[1;32mfeature1[m[33m)[m HEAD@{15}: checkout: moving from develop to feature3
+[33mf04480c[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m, [m[1;32mfeature2[m[33m, [m[1;32mfeature1[m[33m)[m HEAD@{16}: checkout: moving from master to develop
+[33mf04480c[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m, [m[1;32mfeature2[m[33m, [m[1;32mfeature1[m[33m)[m HEAD@{17}: merge develop: Fast-forward
+[33m3b3d45c[m HEAD@{18}: checkout: moving from feature2 to master
+[33mf04480c[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m, [m[1;32mfeature2[m[33m, [m[1;32mfeature1[m[33m)[m HEAD@{19}: merge develop: Fast-forward
+[33m0b9bbba[m HEAD@{20}: checkout: moving from feature1 to feature2
+[33mf04480c[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m, [m[1;32mfeature2[m[33m, [m[1;32mfeature1[m[33m)[m HEAD@{21}: merge develop: Fast-forward
+[33m3134c0a[m HEAD@{22}: checkout: moving from develop to feature1
+[33mf04480c[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m, [m[1;32mfeature2[m[33m, [m[1;32mfeature1[m[33m)[m HEAD@{23}: merge feature2: Merge made by the 'ort' strategy.
+[33m3134c0a[m HEAD@{24}: merge feature1: Fast-forward
+[33m300e4c6[m HEAD@{25}: checkout: moving from feature2 to develop
+[33m0b9bbba[m HEAD@{26}: commit: add style
+[33m300e4c6[m HEAD@{27}: checkout: moving from develop to feature2
+[33m300e4c6[m HEAD@{28}: checkout: moving from feature1 to develop
+[33m3134c0a[m HEAD@{29}: commit: add picture in index.html
+[33m3eb9746[m HEAD@{30}: commit: add picture
+[33m300e4c6[m HEAD@{31}: checkout: moving from develop to feature1
+[33m300e4c6[m HEAD@{32}: commit: creat index.html
+[33m3b3d45c[m HEAD@{33}: checkout: moving from master to develop
+[33m3b3d45c[m HEAD@{34}: Branch: renamed refs/heads/master to refs/heads/master
+[33m3b3d45c[m HEAD@{36}: commit (initial): first commit
